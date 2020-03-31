@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: 300115065
+@author: fadde68
 """
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie","Bertrand"]
