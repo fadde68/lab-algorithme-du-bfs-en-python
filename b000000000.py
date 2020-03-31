@@ -4,8 +4,8 @@
 @author: 300115065
 """
 
-def main():
-  print('Informatique: le rêve')
+def search(name):
+   print('Informatique: le rêve')
 
 if __name__== "__main__":
-  main()
+   search("Boris")
