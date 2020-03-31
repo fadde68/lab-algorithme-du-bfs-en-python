@@ -20,7 +20,8 @@ eleves["Souleyman"]=[]
 eleves["Zack"]=[]
 
 def search(name):
-   print('Informatique: le rêve')
+   print( len(eleves.values()) )
+   return False
 
 if __name__== "__main__":
    search("Boris")
